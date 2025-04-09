@@ -13,4 +13,4 @@ Before running the url2ppt.py, pls set  **DEEP_API_KEY** in the enviroment varia
  
 **Usage:**
 
-`python url2ppt [URL]`
+`python url2ppt.py [URL]`
