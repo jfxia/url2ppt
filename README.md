@@ -1,5 +1,5 @@
 # url2ppt
-Generate a PPT file by a URL (Powered by Deepseek)
+Generate a PPT file by a URL ,using Deepseek
 
 The Python script is supposed to :
 
