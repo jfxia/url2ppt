@@ -9,7 +9,13 @@ The Python script is supposed to :
 
 (2)Generate a PPT file by **python-pptx**.
 
-Before running the url2ppt.py, pls set  **DEEP_API_KEY** in the enviroment variables , and pip install essential dependencies.
+Before running the url2ppt.py, pls set  **DEEP_API_KEY** in the enviroment variables , 
+
+```
+set DEEP_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
+
+and install essential dependencies first.
 
 ```
 pip install json requests bs4 python-pptx PIL pytesseract urllib newspaper sklearn backoff
