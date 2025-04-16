@@ -1,5 +1,5 @@
 # url2ppt
-Generate a PPT file by a URL ,using Deepseek LLM. It's just an experimental program to verify capabilities of Deepseek, and the generated PPT file looks like a mass of ugly slides :(
+Generate a PPT file by a URL ,using Deepseek LLM. It's just an experimental program to verify capabilities of Deepseek, and the generated PPT file looks like a mess of ugly slides :(
 
 The Python script is supposed to :
 
